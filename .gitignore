@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.idx
+*.ilg
+*.ind
